@@ -1,34 +1,8 @@
-﻿Conveyor Build Instructions
-
-Laser Cut 6 Parts:
-
-6mm Plywood:
-2 Side Rails
-Motor Rail
-
-3mm PlyWood:
-End Plate
-Motor End Plate
-
-2mm Acrylic:
-Top Plate
-
-**Laser Cutting Tips**
-Push parts out from top (clean) side?
-
-Instructions to Export to DXF from Rhino:
-Rotating to top view is least confusing 
-Mirror the side rail when cutting. 
-Standard way to rotate to top views: 
-	If you want to mirror flip the angle. 
-If drawings are in Right view:
-In front view, rotate, c    20, 0    90    enter - enter
-If drawings are in Front view
-In right view, rotate, c    0, 0    -90    enter - enter
-Then invert & change object layer
+Conveyor Assembly Instructions
 
 
 Assembly Tips:
+
 Nuts go into the clean (non-charred) side better. 
 370 Motors & solenoid have M3 8mm Long screws
 385 Motors have an hard to find M2.6 x .45 size. 
@@ -58,7 +32,7 @@ Heat seal 1 time for .15mm thick
 	On the dial I use a 2 setting for 0.15mm and 4.5 setting for 0.3mm
 Remove Tape
 Try not to heat seal a single layer area as this will thin it out. 
-The clear belting is sticky. I sand all top plates with 220 sand paper. I wounder what grit is the best. 
+The clear belting is sticky. I sand all top plates with 220 sand paper. I wonder what grit is the best. 
 
 
 Assembly Instructions:
