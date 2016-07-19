@@ -2,7 +2,7 @@
 
 |Part| Name | Description | Source |
 | --- | --- | --- | --- |
-|![Sorting](https://github.com/GemHunt/CoinSorter/blob/master/hardware/conveyors/scanning/SortingSmall.jpg "Sorting")|Top Plate|Laser Cut| Search online / some lumberyards/hardwoods stores|
+|![Sorting](topPlate.jpg "Sorting")|Top Plate|Laser Cut| Search online  some lumberyards hardwoods stores| |
 |![Sorting](https://github.com/GemHunt/CoinSorter/blob/master/hardware/conveyors/scanning/SortingSmall.jpg "Sorting")|Top Plate|Laser Cut 6mm Baltic Birch Plywood| |
 |![Sorting](https://github.com/GemHunt/CoinSorter/blob/master/hardware/conveyors/scanning/SortingSmall.jpg "Sorting")|Side Rails|Laser Cut 6mm Baltic Birch Plywood| |
 |![Sorting](https://github.com/GemHunt/CoinSorter/blob/master/hardware/conveyors/scanning/SortingSmall.jpg "Sorting")|Motor Rail|Laser Cut 3mm Baltic Birch Plywood| |
