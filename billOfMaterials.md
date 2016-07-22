@@ -14,6 +14,8 @@
 |![Motor Strews](belt.jpg "Motor Screws")|Motor Screws| M2.6(.45mm) - 8 mm qty 2 | Hard to find!, Mcmaster-Carr, Aliexpress |
 |![Shafts](belt.jpg "Shafts")|Shafts|42 and 60mm 2mm steel shafts | Common, Mcmaster-Carr, Aliexpress, Etc |
 |![Coupling](belt.jpg "Coupling")|Coupling|17mm long 1/16" ID 1/8" OD polyurethane tubing  | Mcmaster-Carr 	5549K43 |
+|![Bushings](belt.jpg "Bushings")|Bushings|Two types right now. #2 nylon spacers, one 1/4" and two 1/2"  or 3/32" ID, 5/32" OD Teflon  tubing cut 30mm long | Mcmaster-Carr |
+|![Pulley](belt.jpg "Pulley")|Pulley|Spacers for the bushings & pulley. Two types right now. #2 nylon spacer two 1/2" or  3/32" ID, 5/32" OD Teflon  tubing, two cut 6mm long | Mcmaster-Carr |
 
 
 
