@@ -11,8 +11,9 @@
 |![Motor](belt.jpg "Motor")|Motor|24 volt DC motor (385) 3500RPM, 0.1 Amp | 2120461 at Jameco.com |
 |![Nuts](belt.jpg "Nuts")|Nuts| Standard 4-40 Nut, Qty of 15 | Common |
 |![Screws](belt.jpg "Screws")|Screws| 4-40 pan head screws 1/2"Qty 7 -- 3/8"qty 7 | Common |
-|![Motor Strews](belt.jpg "Motor Screws")|Motor Screws| M2.6(.45mm) - 8 mm qty 2 | Hard to find!, Mcmaster, Aliexpress |
-|![Shafts](belt.jpg "Shafts")|Shafts|42 and 58mm 2mm steel shafts | Common, Mcmaster, Aliexpress, Etc |
+|![Motor Strews](belt.jpg "Motor Screws")|Motor Screws| M2.6(.45mm) - 8 mm qty 2 | Hard to find!, Mcmaster-Carr, Aliexpress |
+|![Shafts](belt.jpg "Shafts")|Shafts|42 and 60mm 2mm steel shafts | Common, Mcmaster-Carr, Aliexpress, Etc |
+|![Coupling](belt.jpg "Coupling")|Coupling|17mm long 1/16" ID 1/8" OD polyurethane tubing  | Mcmaster-Carr 	5549K43 |
 
 
 
