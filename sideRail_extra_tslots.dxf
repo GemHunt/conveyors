@@ -501,19 +501,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2457591.600660046
+2457598.731172269
   9
 $TDUUPDATE
  40
-2457591.80899338
+2457598.939505602
   9
 $TDINDWG
  40
-0.0014415394
+0.009065081
   9
 $TDUSRTIMER
  40
-2457591.803361111
+2457598.936058866
   9
 $USRTIMER
  70
@@ -553,7 +553,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-273
+2B4
   9
 $SURFTAB1
  70
@@ -1123,7 +1123,7 @@ ObjectDBX Classes
  90
         0
  91
-        5
+        6
 280
      0
 281
@@ -1139,7 +1139,7 @@ ObjectDBX Classes
  90
      4095
  91
-        5
+        6
 280
      0
 281
@@ -1155,7 +1155,7 @@ ObjectDBX Classes
  90
      1153
  91
-        5
+        6
 280
      0
 281
@@ -1171,7 +1171,7 @@ ObjectDBX Classes
  90
      1153
  91
-        5
+        6
 280
      0
 281
@@ -1187,7 +1187,7 @@ ObjectDBX Classes
  90
      4095
  91
-        5
+        6
 280
      0
 281
@@ -1203,7 +1203,7 @@ ACDB_MLEADERSTYLE_CLASS
  90
      4095
  91
-        5
+        6
 280
      0
 281
@@ -1219,7 +1219,7 @@ SCENEOE
  90
      1153
  91
-        5
+        6
 280
      0
 281
@@ -1235,7 +1235,7 @@ ISM
  90
         0
  91
-        5
+        6
 280
      0
 281
@@ -1251,7 +1251,7 @@ ObjectDBX Classes
  90
         0
  91
-        5
+        6
 280
      0
 281
@@ -1267,7 +1267,23 @@ ObjectDBX Classes
  90
      1152
  91
-        5
+        6
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DIMASSOC
+  2
+AcDbDimAssoc
+  3
+"AcDbDimAssoc|Product Desc:     AcDim ARX App For Dimension|Company:          Autodesk, Inc.|WEB Address:      www.autodesk.com"
+ 90
+        0
+ 91
+        6
 280
      0
 281
@@ -1313,9 +1329,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-130.8388643593502
+157.1744894893686
  22
--24.78821911607689
+-70.34339729858706
  13
 0.0
  23
@@ -1341,9 +1357,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-478.1249999999998
+479.3478260869548
  41
-2.851662404092072
+2.896103896103896
  42
 50.0
  43
@@ -1507,7 +1523,7 @@ LAYER
 100
 AcDbSymbolTable
  70
-     2
+     3
   0
 LAYER
   5
@@ -1552,6 +1568,34 @@ SIDE RAIL MIDDLE
      1
   6
 Continuous
+370
+    -3
+390
+F
+347
+11F
+348
+0
+  0
+LAYER
+  5
+273
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Defpoints
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+290
+     0
 370
     -3
 390
@@ -1705,7 +1749,7 @@ BLOCK_RECORD
 100
 AcDbSymbolTable
  70
-     6
+     4
   0
 BLOCK_RECORD
   5
@@ -1760,6 +1804,66 @@ AcDbBlockTableRecord
 *Paper_Space0
 340
 26
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+277
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D1
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+28C
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D2
+340
+0
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+29F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D3
+340
+0
  70
      0
 280
@@ -1886,6 +1990,972 @@ ENDBLK
 25
 330
 23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+278
+330
+277
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D1
+ 70
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*D1
+  1
+*D1
+  0
+LINE
+  5
+27A
+330
+277
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-3.25
+ 20
+0.0625000000000003
+ 30
+0.0
+ 11
+-3.25
+ 21
+0.8262178759638907
+ 31
+0.0
+  0
+LINE
+  5
+27B
+330
+277
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-1.0
+ 20
+0.0625
+ 30
+0.0
+ 11
+-1.0
+ 21
+0.8262178759638907
+ 31
+0.0
+  0
+LINE
+  5
+27C
+330
+277
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-3.07
+ 20
+0.6462178759638908
+ 30
+0.0
+ 11
+-2.635
+ 21
+0.6462178759638908
+ 31
+0.0
+  0
+LINE
+  5
+27D
+330
+277
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-1.18
+ 20
+0.6462178759638908
+ 30
+0.0
+ 11
+-1.615
+ 21
+0.6462178759638908
+ 31
+0.0
+  0
+SOLID
+  5
+27E
+330
+277
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+100
+AcDbTrace
+ 10
+-3.07
+ 20
+0.6762178759638908
+ 30
+0.0
+ 11
+-3.07
+ 21
+0.6162178759638908
+ 31
+0.0
+ 12
+-3.25
+ 22
+0.6462178759638908
+ 32
+0.0
+ 13
+-3.25
+ 23
+0.6462178759638908
+ 33
+0.0
+  0
+SOLID
+  5
+27F
+330
+277
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+100
+AcDbTrace
+ 10
+-1.18
+ 20
+0.6162178759638908
+ 30
+0.0
+ 11
+-1.18
+ 21
+0.6762178759638908
+ 31
+0.0
+ 12
+-1.0
+ 22
+0.6462178759638908
+ 32
+0.0
+ 13
+-1.0
+ 23
+0.6462178759638908
+ 33
+0.0
+  0
+MTEXT
+  5
+280
+330
+277
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+100
+AcDbMText
+ 10
+-2.125
+ 20
+0.6462178759638908
+ 30
+0.0
+ 40
+0.18
+ 41
+0.0
+ 46
+0.0
+ 71
+     5
+ 72
+     1
+  1
+\A1;2.2500
+ 73
+     1
+ 44
+1.0
+  0
+POINT
+  5
+281
+330
+277
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+     0
+100
+AcDbPoint
+ 10
+-3.25
+ 20
+0.0000000000000003
+ 30
+0.0
+  0
+POINT
+  5
+282
+330
+277
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+     0
+100
+AcDbPoint
+ 10
+-1.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+283
+330
+277
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+     0
+100
+AcDbPoint
+ 10
+-1.0
+ 20
+0.6462178759638908
+ 30
+0.0
+  0
+ENDBLK
+  5
+279
+330
+277
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+28D
+330
+28C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D2
+ 70
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*D2
+  1
+*D2
+  0
+LINE
+  5
+28F
+330
+28C
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-1.0
+ 20
+-0.0625
+ 30
+0.0
+ 11
+-1.0
+ 21
+-0.5524937430145604
+ 31
+0.0
+  0
+LINE
+  5
+290
+330
+28C
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-3.05
+ 20
+-0.0624999999999998
+ 30
+0.0
+ 11
+-3.05
+ 21
+-0.5524937430145604
+ 31
+0.0
+  0
+LINE
+  5
+291
+330
+28C
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-1.18
+ 20
+-0.3724937430145605
+ 30
+0.0
+ 11
+-1.53
+ 21
+-0.3724937430145605
+ 31
+0.0
+  0
+LINE
+  5
+292
+330
+28C
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-2.87
+ 20
+-0.3724937430145605
+ 30
+0.0
+ 11
+-2.52
+ 21
+-0.3724937430145605
+ 31
+0.0
+  0
+SOLID
+  5
+293
+330
+28C
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+100
+AcDbTrace
+ 10
+-1.18
+ 20
+-0.4024937430145605
+ 30
+0.0
+ 11
+-1.18
+ 21
+-0.3424937430145605
+ 31
+0.0
+ 12
+-1.0
+ 22
+-0.3724937430145605
+ 32
+0.0
+ 13
+-1.0
+ 23
+-0.3724937430145605
+ 33
+0.0
+  0
+SOLID
+  5
+294
+330
+28C
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+100
+AcDbTrace
+ 10
+-2.87
+ 20
+-0.3424937430145605
+ 30
+0.0
+ 11
+-2.87
+ 21
+-0.4024937430145605
+ 31
+0.0
+ 12
+-3.05
+ 22
+-0.3724937430145605
+ 32
+0.0
+ 13
+-3.05
+ 23
+-0.3724937430145605
+ 33
+0.0
+  0
+MTEXT
+  5
+295
+330
+28C
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+100
+AcDbMText
+ 10
+-2.025
+ 20
+-0.3724937430145605
+ 30
+0.0
+ 40
+0.18
+ 41
+0.0
+ 46
+0.0
+ 71
+     5
+ 72
+     1
+  1
+\A1;2.0500
+ 73
+     1
+ 44
+1.0
+  0
+POINT
+  5
+296
+330
+28C
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+     0
+100
+AcDbPoint
+ 10
+-1.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+297
+330
+28C
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+     0
+100
+AcDbPoint
+ 10
+-3.05
+ 20
+0.0000000000000003
+ 30
+0.0
+  0
+POINT
+  5
+298
+330
+28C
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+     0
+100
+AcDbPoint
+ 10
+-3.05
+ 20
+-0.3724937430145605
+ 30
+0.0
+  0
+ENDBLK
+  5
+28E
+330
+28C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+2A0
+330
+29F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D3
+ 70
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*D3
+  1
+*D3
+  0
+LINE
+  5
+2A2
+330
+29F
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-1.0
+ 20
+0.0625
+ 30
+0.0
+ 11
+-1.0
+ 21
+0.1800000000000003
+ 31
+0.0
+  0
+LINE
+  5
+2A3
+330
+29F
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-3.25
+ 20
+0.0625000000000003
+ 30
+0.0
+ 11
+-3.25
+ 21
+0.1800000000000003
+ 31
+0.0
+  0
+LINE
+  5
+2A4
+330
+29F
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-1.18
+ 20
+0.0000000000000003
+ 30
+0.0
+ 11
+-1.615
+ 21
+0.0000000000000003
+ 31
+0.0
+  0
+LINE
+  5
+2A5
+330
+29F
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+370
+    -2
+100
+AcDbLine
+ 10
+-3.07
+ 20
+0.0000000000000003
+ 30
+0.0
+ 11
+-2.635
+ 21
+0.0000000000000003
+ 31
+0.0
+  0
+SOLID
+  5
+2A6
+330
+29F
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+100
+AcDbTrace
+ 10
+-1.18
+ 20
+-0.0299999999999997
+ 30
+0.0
+ 11
+-1.18
+ 21
+0.0300000000000003
+ 31
+0.0
+ 12
+-1.0
+ 22
+0.0000000000000003
+ 32
+0.0
+ 13
+-1.0
+ 23
+0.0000000000000003
+ 33
+0.0
+  0
+SOLID
+  5
+2A7
+330
+29F
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+100
+AcDbTrace
+ 10
+-3.07
+ 20
+0.0300000000000003
+ 30
+0.0
+ 11
+-3.07
+ 21
+-0.0299999999999997
+ 31
+0.0
+ 12
+-3.25
+ 22
+0.0000000000000003
+ 32
+0.0
+ 13
+-3.25
+ 23
+0.0000000000000003
+ 33
+0.0
+  0
+MTEXT
+  5
+2A8
+330
+29F
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+ 62
+     0
+100
+AcDbMText
+ 10
+-2.125
+ 20
+0.0000000000000003
+ 30
+0.0
+ 40
+0.18
+ 41
+0.0
+ 46
+0.0
+ 71
+     5
+ 72
+     1
+  1
+\A1;2.2500
+ 73
+     1
+ 44
+1.0
+  0
+POINT
+  5
+2A9
+330
+29F
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+     0
+100
+AcDbPoint
+ 10
+-1.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+2AA
+330
+29F
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+     0
+100
+AcDbPoint
+ 10
+-3.25
+ 20
+0.0000000000000003
+ 30
+0.0
+  0
+POINT
+  5
+2AB
+330
+29F
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+     0
+100
+AcDbPoint
+ 10
+-3.25
+ 20
+0.0000000000000003
+ 30
+0.0
+  0
+ENDBLK
+  5
+2A1
+330
+29F
 100
 AcDbEntity
   8
@@ -3146,6 +4216,16 @@ AcDbCircle
 CIRCLE
   5
 A1
+102
+{ACAD_REACTORS
+330
+276
+330
+28B
+330
+29E
+102
+}
 330
 1F
 100
@@ -7201,6 +8281,26 @@ AcDbLine
  31
 0.0
   0
+CIRCLE
+  5
+2AD
+330
+1F
+100
+AcDbEntity
+  8
+SIDE RAIL MIDDLE
+100
+AcDbCircle
+ 10
+-1.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.85
+  0
 ENDSEC
   0
 SECTION
@@ -7271,7 +8371,7 @@ ACAD_VISUALSTYLE
   3
 ACDB_RECOMPOSE_DATA
 350
-272
+2B3
   3
 AcDbVariableDictionary
 350
@@ -7809,7 +8909,7 @@ X-Ray
   0
 XRECORD
   5
-272
+2B3
 102
 {ACAD_REACTORS
 330
@@ -9299,7 +10399,7 @@ TABLESTYLE
 102
 {ACAD_XDICTIONARY
 360
-270
+2B1
 102
 }
 330
@@ -16393,7 +17493,7 @@ DictionaryVariables
   0
 DICTIONARY
   5
-270
+2B1
 330
 12A
 100
@@ -16405,19 +17505,19 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-271
+2B2
   0
 CELLSTYLEMAP
   5
-271
+2B2
 102
 {ACAD_REACTORS
 330
-270
+2B1
 102
 }
 330
-270
+2B1
 100
 AcDbCellStyleMap
  90
