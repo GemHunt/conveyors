@@ -8,14 +8,14 @@
 |![End Plate](endPlate.jpg "End Plate")|End Plate|Laser Cut 3mm Baltic Birch Plywood|"|
 |![Motor End Plate](motorEndPlate.jpg "Motor End Plate")|Motor End Plate|Laser Cut 3mm Baltic Birch Plywood| "|
 |![Belt](belt.jpg "Belt")|Belt|0.15mm Thick 30mm wide 442mm long polyurethane | Search "TPU Tape" on AliExpress.com |
-|![Motor](belt.jpg "Motor")|Motor|24 volt DC motor (385) 3500RPM, 0.1 Amp | 2120461 at Jameco.com |
-|![Nuts](belt.jpg "Nuts")|Nuts| Standard 4-40 Nut, Qty of 15 | Common |
-|![Screws](belt.jpg "Screws")|Screws| 4-40 pan head screws 1/2"Qty 7 -- 3/8"qty 7 | Common |
-|![Motor Strews](belt.jpg "Motor Screws")|Motor Screws| M2.6(.45mm) - 8 mm qty 2 | Hard to find!, Mcmaster-Carr, Aliexpress |
-|![Shafts](belt.jpg "Shafts")|Shafts|42 and 60mm 2mm steel shafts | Common, Mcmaster-Carr, Aliexpress, Etc |
-|![Coupling](belt.jpg "Coupling")|Shaft to motor Coupling|17mm long 1/16" ID 1/8" OD polyurethane tubing  | Mcmaster-Carr 	5549K43 |
-|![Bushings](belt.jpg "Bushings")|Bushings|Two types right now. #2 nylon spacers, one 1/4" and two 1/2"  or 3/32" ID, Teflon  tubing 5/32" OD cut 30mm long | Mcmaster-Carr |
-|![Pulley](belt.jpg "Pulley")|Pulley|Two types right now. #2 nylon spacer two 1/2" or Teflon tubing 3/32" ID, 5/32" OD, two cut 6mm long | Mcmaster-Carr |
+|![Motor](motor.jpg "Motor")|Motor|24 volt DC motor (385) 3500RPM, 0.1 Amp | 2120461 at Jameco.com |
+|![Nuts](nuts.jpg "Nuts")|Nuts| Standard 4-40 Nut, Qty of 15 | Common |
+|![Screws](screws.jpg "Screws")|Screws| 4-40 pan head screws 1/2"Qty 7 -- 3/8"qty 7 | Common |
+|![Motor Strews](motor-screws.jpg "Motor Screws")|Motor Screws| M2.6(.45mm) - 8 mm qty 2 | Hard to find!, Mcmaster-Carr, Aliexpress |
+|![Shafts](shafts.jpg "Shafts")|Shafts|42 and 60mm 2mm steel shafts | Common, Mcmaster-Carr, Aliexpress, Etc |
+|![Coupling](coupling.jpg "Coupling")|Shaft to motor Coupling|17mm long 1/16" ID 1/8" OD polyurethane tubing  | Mcmaster-Carr 	5549K43 |
+|![Bushings](bushings.jpg "Bushings")|Bushings|Two types right now. #2 nylon spacers, one 1/4" and two 1/2"  or 3/32" ID, Teflon  tubing 5/32" OD cut 30mm long | Mcmaster-Carr |
+|![Pulley](bushings.jpg "Pulley")|Pulley|Two types right now. #2 nylon spacer two 1/2" or Teflon tubing 3/32" ID, 5/32" OD, two cut 6mm long | Mcmaster-Carr |
 
 
 
