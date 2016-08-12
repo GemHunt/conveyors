@@ -37,12 +37,12 @@ Assembly Instructions:
 	Put the 60mm shaft on the other side of the couple
 	There should be about a 1mm of tubing in the middle. 
 
-Mount the motor:
-	To the Motor Rail 
-With M3x.5 x 8mm long screws.
-Cleaner side to the motor face. 
+Mount the motor	to the motor rail with:
+	385 motor: M3x.5 x 8mm long screws.
+	270? or 25mm gearmotors: M2.6 x 8mm long cap screws
+
 Screw on top plate to motor rail
-Add solenoid plate to motor rail with one 5/8” screw
+Add a bearing to the motor shaft
 Add Middle Rail to top plate with 2 screws
 
 Change this: it’s easier to then put on shafts, then belt, then side rail. 
@@ -50,16 +50,22 @@ Change this: it’s easier to then put on shafts, then belt, then side rail.
 If using guides:	
 Add them with three 5/8” screws instead of two ½” screws
 Guides need shim washers between the top plate and the guide
-Add Side Rail to top plate with 2 screws
+
+
+Add the second side rail to top plate with 2 screws, adding the second bearing in the process
+
 If using guides:	
 Add them with three 5/8” screws instead of two ½” screws
 Guides need shim washers between the top plate and the guide
 Tighten guides with guide spacer in-between. 
+
 Add shorter 42mm long 2mm shaft with 3/16 spacer pulleys:
 	2 longer spacers on the end, and one shorter spacer in the middle. 
 Put the belt on.
+
 Add motor end plate
 Add end plate
+
 Final screw tightening:
 Squeeze the side rails together when tightening the end plates. 
 Don’t tighten top plate super tight as it will crown. 
