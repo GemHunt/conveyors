@@ -4,14 +4,12 @@ Conveyor Assembly Instructions
 Assembly Tips:
 
 Nuts go into the clean (non-charred) side better. 
+If a nut gets stuck squeezing between 2 coins helps. 
 370 Motors & solenoid have M3 8mm Long screws
 385 Motors have an hard to find M2.6 x .45 size. 
 
-Horizontal solenoid plate screws & guide screws are 5/8” 4-40
-Finger guides are 4# 3/8” sheet metal screws for now. 
-All other screws are ½” 4-40.
+All screws are 3/8” 4-40 unless you use guides. Use 1/2" Long screws with the guides. 
 
-If a nut gets stuck squeezing between 2 coins helps. 
 Only snug screws until everything it together, then finish tightening. 
 
 Make a Belt:
@@ -34,15 +32,13 @@ Remove Tape
 Try not to heat seal a single layer area as this will thin it out. 
 The clear belting is sticky. I sand all top plates with 220 sand paper. I wonder what grit is the best. 
 
-
 Assembly Instructions:
-	Put the 58mm shaft on the motor:
-	Add the 17mm tubing coupling to the motor shaft. 
-	Press 7mm on the motor (most of the way) 
-	Add the 58mm 2mm shaft to this tubing, pressing about 7mm on. 
-	There should be about a 2mm of tubing in the middle. 
+	Add the 17mm coupling(tubing) to the motor
+	Put the 60mm shaft on the other side of the couple
+	There should be about a 1mm of tubing in the middle. 
+
 Mount the motor:
-To the Motor Rail 
+	To the Motor Rail 
 With M3x.5 x 8mm long screws.
 Cleaner side to the motor face. 
 Screw on top plate to motor rail
