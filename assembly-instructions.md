@@ -30,7 +30,7 @@ Heat seal 1 time for .15mm thick
 	On the dial I use a 2 setting for 0.15mm and 4.5 setting for 0.3mm
 Remove Tape
 Try not to heat seal a single layer area as this will thin it out. 
-The clear belting is sticky. I sand all top plates with 220 sand paper. I wonder what grit is the best. 
+Clear belting is sticky. So sanding the top plate with 220 grit sandpaper is a must. It's a good idea regardless. 
 
 Assembly Instructions:
 	Add the 17mm coupling(tubing) to the motor
@@ -42,10 +42,9 @@ Mount the motor	to the motor rail with:
 	270? or 25mm gearmotors: M2.6 x 8mm long cap screws
 
 Screw on top plate to motor rail
+Add the solenoid plate, if there is one. 
 Add a bearing to the motor shaft
 Add Middle Rail to top plate with 2 screws
-
-Change this: it’s easier to then put on shafts, then belt, then side rail. 
 
 If using guides:	
 Add them with three 5/8” screws instead of two ½” screws
