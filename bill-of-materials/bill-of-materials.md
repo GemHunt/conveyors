@@ -9,6 +9,7 @@
 |![Motor End Plate](motorEndPlate.jpg "Motor End Plate")|Motor End Plate|Laser Cut 3mm Baltic Birch Plywood| "|
 |![Belt](belt.jpg "Belt")|Belt|0.15mm Thick 30mm wide 442mm long polyurethane | Search "TPU Tape" on AliExpress.com |
 |![Motor](385Motor.jpg "Motor")|Motor|24 volt DC motor (385) 3500RPM, 0.1 Amp | 2120461 at Jameco.com |
+|No Picture|Motor|or 24 Volt 0.55 Amp 7.5 Step Angle Bipolar Stepper Motor | 2158557 at Jameco.com |
 |![Nuts](nuts.jpg "Nuts")|Nuts| Standard 4-40 Nut, Qty of 15 | Common |
 |![Screws](screws.jpg "Screws")|Screws| 4-40 pan head screws 1/2"Qty 7 -- 3/8"qty 7 | Common |
 |![Motor Strews](motor-screws.jpg "Motor Screws")|Motor Screws| M2.6(.45mm) - 8 mm qty 2 | Hard to find!, Mcmaster-Carr, Aliexpress |
